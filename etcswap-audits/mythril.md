@@ -1,12 +1,12 @@
 # Mythril Audits
-## EtcswapV2Router02.sol
+## EtcswapV2Router02.sol - ETC Swap Contracts on Ethereum Classic Mainnet
 
 ```jsx
 The analysis was completed successfully. No issues were detected.
 
 ```
 
-## EtcswapV2Factory.sol
+## EtcswapV2Factory.sol - ETC Swap Contracts on Ethereum Classic Mainnet
 
 ```jsx
 Severity: Low / Informational
