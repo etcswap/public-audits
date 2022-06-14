@@ -161,7 +161,7 @@ The ETC Swap Security team feels the following threat models fit the most practi
 
 ## **ETC Swap Site - Denial Of Service**
 
-| Status | Open - Fix In Progress |
+| Status | Closed - Addressed |
 | --- | --- |
 | Severity | High |
 | Description | The ETC Swap interface currently does not have any front end content delivery network and denial of service protection. It is recommended to use a CloudFlare and/or CloudFront distribution in order to absolve and mitigate any network traffic based denial of service attacks. This will ensure a high uptime for trading and liquidity activity. |
