@@ -61,3 +61,20 @@ https://etherscan.io/address/0xda5b232fb6e3e897d2f84797d19c53cf3f5ae938#code
 The analysis was completed successfully. No issues were detected.
 
 ```
+
+# To Be Reviewed - Mythril Audits
+
+## AnyswapV6ERC20.sol - anyBNB: Binance Coin on Ethereum Classic Mainnet
+https://blockscout.com/etc/mainnet/address/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/contracts
+
+```jsx
+To Be Reviewed
+
+```
+## AnyswapV6ERC20.sol - anyBUSD: Binance USD on Ethereum Classic Mainnet
+https://blockscout.com/etc/mainnet/address/0xb12c13e66AdE1F72f71834f2FC5082Db8C091358/contracts
+
+```jsx
+To Be Reviewed
+
+```
